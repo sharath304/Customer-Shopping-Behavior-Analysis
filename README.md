@@ -57,7 +57,7 @@ The dataset contains **3,900 customer purchase records** with **18 columns** rep
 | Python             | Data loading, preprocessing, and exploratory data analysis |
 | Pandas             | Data manipulation and cleaning                             |
 | SQL                | Business analysis queries                                  |
-| MySQL / Orcale SQL | Database storage and querying                              |
+| Oracle SQL         | Database storage and querying                              |
 | Power BI           | Interactive dashboard and visualization                    |
 | Gamma AI           | Presentation generation                                    |
 | Jupyter Notebook   | Python development environment                             |
